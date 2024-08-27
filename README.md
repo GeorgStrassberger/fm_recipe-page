@@ -20,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/GeorgStrassberger/fm_recipe-page](https://github.com/GeorgStrassberger/fm_recipe-page)
+- Live Site URL: [https://georgstrassberger.github.io/fm_recipe-page/](https://georgstrassberger.github.io/fm_recipe-page/)
 
 ## My process
 
@@ -34,5 +34,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://www.georg-strassberger.de](https://www.georg-strassberger.de)
+- Frontend Mentor - [@GeorgStrassberger](https://www.frontendmentor.io/profile/GeorgStrassberger)
