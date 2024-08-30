@@ -253,4 +253,15 @@ footer {
   .card {
     width: 768px;
   }
+
+  .image-wrapper {
+    overflow: hidden;
+    border-radius: 1rem;
+    margin: 1rem 1rem 2rem 1rem;
+  }
+
+  .recipe__image {
+    height: 18rem;
+    margin-bottom: 0;
+  }
 }
